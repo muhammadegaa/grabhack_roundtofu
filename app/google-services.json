@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "144521402495",
+    "project_id": "polished-vault-248606",
+    "storage_bucket": "polished-vault-248606.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144521402495:android:9140faa82c2d068cb9474a",
+        "android_client_info": {
+          "package_name": "com.roundtofu.traditional_market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144521402495-gv5kgqr3t4vh0tfurkrqrcbt7jor7ui6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD_2YZ9HLv24SXuUUTs7uH_7u8iEMCOoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144521402495-gv5kgqr3t4vh0tfurkrqrcbt7jor7ui6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
